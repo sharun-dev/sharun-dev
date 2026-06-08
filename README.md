@@ -8,7 +8,8 @@ I am Sharun Ajay.**Recent BCA graduate with knowledge of programming languages, 
  **Film Sphere (Major Project):** A networking platform built for actors, directors, casting directors, and editors to manage audition videos, portfolios, and live event bookings.
  
 **TravelMate:** A dashboard setup (inside the `trailer/` folder) built for travel agencies featuring interactive booking calendars and admin moderation panels.
-### 🎯 Looking For<br>I am actively seeking entry-level roles as a **Junior Software Engineer**, **Flutter Developer**, or **QA / Software Tester** where I can bring my technical toolkit, visual skills, and problem-solving mindset to a team.<br><br>💬 Explore my folders to see my code layout, check out my project features, or let's connect!
+### 🎯 Looking For
+I am actively seeking entry-level roles as a **Junior Software Engineer**, **Software Developer**, or **QA / Software Tester** where I can bring my technical toolkit, visual skills, and problem-solving mindset to a team.<br><br>💬 Explore my folders to see my code layout, check out my project features, or let's connect!
 
 
 ## 🌐 Socials:
