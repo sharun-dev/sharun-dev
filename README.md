@@ -1,9 +1,13 @@
 # 💫 About Me:
 **I am Sharun Ajay.Recent BCA graduate with knowledge of programming languages, software engineering, mobile app development,web site development, AI-assisted software testing, and video editing, passionate about building clean, user-friendly applications and contributing to innovative software solutions.**
 ### 🚀 What I Do
-**App Development:** I build clean, multi-platform apps using **Flutter & Dart**, connecting them to **Firebase** for data and **Cloudinary** for fast video/image loading.
-**Video Editing & Branding:** I have an eye for timing and visuals, managing video creation pipelines from quick audition clips to social media edits.
-**Modern Development:** I leverage tools like **GitHub Copilot** to speed up my coding workflows and keep my repositories clean, secure, and production-ready.
+**App Development: I build clean, multi-platform apps using Flutter & Dart, connecting them to Firebase for data and Cloudinary for fast video/image loading.
+
+Web Development: I design and deploy responsive, interactive web applications using semantic HTML5, CSS3, and modern JavaScript (ES6+), perfectly integrating real-time cloud databases and optimized media hosting pipelines.
+
+Video Editing & Branding: I have an eye for timing and visuals, managing video creation pipelines from quick audition clips to social media edits.
+
+Modern Development: I leverage tools like GitHub Copilot to speed up my coding workflows and keep my repositories clean, secure, and production-ready.
 ### 📁 Highlights of My Work
  **Film Sphere (Major Project):** A networking platform built for actors, directors, casting directors, and editors to manage audition videos, portfolios, and live event bookings.
  
