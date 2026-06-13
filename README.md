@@ -1,19 +1,27 @@
 # 💫 About Me:
 **I am Sharun Ajay.Recent BCA graduate with knowledge of programming languages, software engineering, mobile app development,web site development, AI-assisted software testing, and video editing, passionate about building clean, user-friendly applications and contributing to innovative software solutions.**
 ### 🚀 What I Do
-**App Development: I build clean, multi-platform apps using Flutter & Dart, connecting them to Firebase for data and Cloudinary for fast video/image loading.
+**App Development:** I build clean, multi-platform apps using Flutter & Dart, connecting them to Firebase for data and Cloudinary for fast video/image loading.
 
-Web Development: I design and deploy responsive, interactive web applications using semantic HTML5, CSS3, and modern JavaScript (ES6+), perfectly integrating real-time cloud databases and optimized media hosting pipelines.
+**Web Development:** I design and deploy responsive, interactive web applications using semantic HTML5, CSS3, and modern JavaScript (ES6+), perfectly integrating real-time cloud databases and optimized media hosting pipelines.
 
-Video Editing & Branding: I have an eye for timing and visuals, managing video creation pipelines from quick audition clips to social media edits.
+**Video Editing & Branding:** Leveraging CapCut PC alongside a sharp eye for visual timing to streamline video pipelines, ranging from quick audition clips to engaging social media edits.
 
-Modern Development: I leverage tools like GitHub Copilot to speed up my coding workflows and keep my repositories clean, secure, and production-ready.
+**Modern Development:** I leverage tools like GitHub Copilot to speed up my coding workflows and keep my repositories clean, secure, and production-ready.
 ### 📁 Highlights of My Work
  **Film Sphere (Major Project):** A networking platform built for actors, directors, casting directors, and editors to manage audition videos, portfolios, and live event bookings.
  
 **TravelMate:** A dashboard setup (inside the `trailer/` folder) built for travel agencies featuring interactive booking calendars and admin moderation panels.
-### 🎯 Looking For
-I am actively seeking entry-level roles as a **Junior Software Engineer**, **Software Developer**, or **QA / Software Tester** where I can bring my technical toolkit, visual skills, and problem-solving mindset to a team.<br><br>💬 Explore my folders to see my code layout, check out my project features, or let's connect!
+
+**TalentTrade (Recent Project):** A peer-to-peer marketplace platform built for independent creators, digital artists, and developers to buy, sell, or rent web applications, custom source code, creative designs, and tech gear.
+
+**🎯 Looking For**
+I am actively seeking entry-level and fresher roles to bring my technical toolkit and problem-solving mindset to a high-performing team:
+
+👉**Junior Software Engineer | Software Developer | Web Developer**
+👉**Mobile App Developer | Frontend & Backend Developer | QA / Software Tester**
+
+💬 Explore my folders to see my code layout, check out my project features, or let's connect
 
 
 ## 🌐 Socials:
