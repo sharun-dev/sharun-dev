@@ -15,7 +15,8 @@
 
 **TalentTrade (Recent Project):** A peer-to-peer marketplace platform built for independent creators, digital artists, and developers to buy, sell, or rent web applications, custom source code, creative designs, and tech gear.
 
-**🎯 Looking For**
+### 🎯Looking For
+
 I am actively seeking entry-level and fresher roles to bring my technical toolkit and problem-solving mindset to a high-performing team:
 
 👉**Junior Software Engineer | Software Developer | Web Developer**
