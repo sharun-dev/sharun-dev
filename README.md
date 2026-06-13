@@ -20,6 +20,7 @@
 I am actively seeking entry-level and fresher roles to bring my technical toolkit and problem-solving mindset to a high-performing team:
 
 👉**Junior Software Engineer | Software Developer | Web Developer**
+
 👉**Mobile App Developer | Frontend & Backend Developer | QA / Software Tester**
 
 💬 Explore my folders to see my code layout, check out my project features, or let's connect
